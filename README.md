@@ -18,12 +18,14 @@
   all relevant files to the proper packages. For instance, model package should only hold what is inside the model folder, etc. Please run the MVCLibraryApp class, which is 
   the main class to start the app. Thank you very much for your time.
 
-<img width="960" alt="1" src="https://github.com/Munkh09/CS151_Project/assets/143208888/67d0c68b-18db-438f-870d-ae9bf302b342">
-<img width="960" alt="2" src="https://github.com/Munkh09/CS151_Project/assets/143208888/74107a95-fc40-4eae-aa53-f131179ba825">
-<img width="960" alt="3" src="https://github.com/Munkh09/CS151_Project/assets/143208888/cd9e8dc7-e649-4884-a150-b4cc347c9012">
-<img width="960" alt="4" src="https://github.com/Munkh09/CS151_Project/assets/143208888/e591be11-6768-4a72-9834-0358b3fbf5a1">
-<img width="960" alt="5" src="https://github.com/Munkh09/CS151_Project/assets/143208888/c0194d26-0012-4006-8d7c-bbba54a3b851">
-<img width="960" alt="6" src="https://github.com/Munkh09/CS151_Project/assets/143208888/9046c823-a66b-4c03-9ece-d66af3b493c1">
-<img width="960" alt="7" src="https://github.com/Munkh09/CS151_Project/assets/143208888/1fbc184b-c141-4e77-941f-4f225cfb629f">
-<img width="960" alt="8" src="https://github.com/Munkh09/CS151_Project/assets/143208888/c6ed096d-0bcc-4968-9712-6e98419fd9d7">
+<img width="960" alt="1" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/21c2894d-e82f-438e-84b3-1a1498d9d100">
+<img width="960" alt="2" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/271a3c6d-996a-44b5-8dff-f02142e75e1e">
+<img width="960" alt="3" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/ebb1cc9b-11ed-4c65-877f-432453fb4997">
+<img width="960" alt="4" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/d96bdf88-462f-4dce-9ec6-fa9e3dd4b571">
+<img width="960" alt="5" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/6965cefa-88ab-4019-91c6-4753169e7c8e">
+<img width="960" alt="6" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/0e873639-0218-48d4-a267-9301da1e1d11">
+<img width="960" alt="7" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/bb9c72a9-835f-4052-872c-355d031e79a1">
+<img width="960" alt="8" src="https://github.com/Munkh09/Library_Project_MVC/assets/143208888/e59b635e-d10d-4091-8b22-78a55a77b374">
+
+
 
