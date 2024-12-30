@@ -3,11 +3,8 @@
 - Team Members: Munkh-Erdene Khuderbaatar, John Phan, Nicholas Valencia
 - IMPORTANT: This project is not 100% same as the one submitted by my teammates; I worked on top of the original group code, which was NOT MVC style and had less features     
   and more error prone; I turned it into MVC and added my own changes and security
-- What I did: turned a continuous 1000 line code single class into an MVC design pattern with 3 parts; added forgotPasswordButton, showUsersButton, show Password Visible  
-  checkbox, and handled error-proneness (e.g. previously the app would allow to sign up without first and last name etc.); designed and drew Use Case and State UML Diagrams, 
-  acted as the Front-End Engineer.
-- What John did: wrote the original whole continuous 1000 line code in a single class, acted as the team captain, lead the team, acted as the main Front-End Engineer
-- What Nicholas did: turned the original code into JSON type, worked on the original backend, acted as the Back-End Engineer 
+- What I did: codeveloped the application, designed the application in the MVC design pattern style; added forgotPasswordButton, showUsersButton, show Password Visible  
+  checkbox, and handled error-proneness (e.g. previously the app would allow to sign up without first and last name etc.); designed and drew Use Case and State UML Diagrams. 
 - The application was written in JDK 17 and in Intellij
 - Functionality: this application allows users checkout books, sign in, sign up, view books in the library, etc. It is very convenient to use. For instance, if a user forgets 
   the password/username, one can simply click on the show Users button and see it; additionally, one can retrieve the password by providing the security question answer;   
